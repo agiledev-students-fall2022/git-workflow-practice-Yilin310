@@ -14,3 +14,7 @@ This article is useful as it warns us that we should not get too excited and rus
 ### Comment by Ronit Singh
 
 The points raised have my full support. Software development requires a plan at all times, and even if the task is completed ahead of schedule, the developer should never rush!
+
+### Comment by Bernice Wu
+
+The article pointed the situation that almost all the developers will encounter. We need to accept the challenges in the progress and adjust ourselves to the new plan constantly!
